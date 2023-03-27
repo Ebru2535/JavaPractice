@@ -1,4 +1,4 @@
-package kendiörnekleriim;
+package karisikörnekleriim;
 
 public class arkadasSayi {
     public static void main(String[] args) {

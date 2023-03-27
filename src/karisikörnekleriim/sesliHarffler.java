@@ -1,4 +1,4 @@
-package kendiörnekleriim;
+package karisikörnekleriim;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package kendiörnekleriim;
+package karisikörnekleriim;
 
 public class sayıAsalmi {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package kendiörnekleriim;
+package karisikörnekleriim;
 
 public class mükemmelSayi {
     public static void main(String[] args) {
