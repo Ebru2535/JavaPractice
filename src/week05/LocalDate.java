@@ -12,12 +12,8 @@ public class LocalDate {
     Localdate classını kullanarak bu üç değişkeni bir methot içerisinde göderin ve random tarih seçin
      */
     public static void main(String[] args) {
-        Random random= new Random();
-
-        for (int i = 0; i < 10; i++) {
-
 
         }
 
     }
-}
+
